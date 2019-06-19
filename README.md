@@ -27,3 +27,7 @@ management.endpoint.prometheus.enabled=true
 management.metrics.export.prometheus.enabled=true
 management.endpoints.web.base-path= /manage
 ```
+
+## grafana dashboard 
+https://grafana.com/dashboards?search=spring%20boot
+
